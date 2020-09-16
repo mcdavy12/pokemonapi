@@ -19,7 +19,6 @@ body {
 .card {
     position: absolute;
     background-color:   yellow;
-    align-content: center;
     border-radius: 25px;
     border-color: black;
     border-width: 5px;
