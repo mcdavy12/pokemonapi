@@ -16,7 +16,7 @@ body {
 
 .card {
     position: relative;
-    left: 700px;
+    left: 550px;
     background-color:   yellow;
     border-radius: 25px;
     border-color: black;
@@ -38,18 +38,18 @@ body {
 }
 
 .attackOne {
-    position: absolute;
+    position: relative;
     top: 50%;
     color: rgb(223, 92, 92);
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(12deg);
-    left: 1200px;
+    left: 1000px;
     text-shadow: 1px 1px blue;
 }
 
 .attackTwo {
-    position: fixed;
+    position: relative;
     top: 50%;
     color: rgb(194, 162, 162);
     font-size: 38px;
@@ -60,7 +60,7 @@ body {
 }
 
 .attackThree {
-    position: fixed;
+    position: relative;
     top: 65%;
     color: white;
     font-size: 38px;
@@ -71,7 +71,7 @@ body {
 }
 
 .attackFour {
-    position: absolute;
+    position: relative;
     top: 70%;
     color: white;
     font-size: 38px;
@@ -84,7 +84,7 @@ body {
 
 .backImage {
     position: absolute;
-    top: 65%;
+    top: 75%;
     left: 700px;
     height: auto;
     max-width: 25%;
