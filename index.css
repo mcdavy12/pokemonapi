@@ -1,5 +1,4 @@
 
-
 body {
     background-color: black;
 }
@@ -17,8 +16,8 @@ body {
 }
 
 .card {
-    position: fixed;
-    left: 200px;
+    position: absoulte;
+    left 200px;
     background-color:   yellow;
     border-radius: 25px;
     border-color: black;
