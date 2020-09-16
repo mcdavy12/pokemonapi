@@ -14,7 +14,8 @@ body {
 }
 
 .card {
-    position: absolute;
+    position: relative;
+    left: 700px;
     background-color:   yellow;
     border-radius: 25px;
     border-color: black;
@@ -32,6 +33,7 @@ body {
 
 .card-body {
     position: relative;
+    left: 50px;
 }
 
 .attackOne {
