@@ -18,8 +18,8 @@ body {
 }
 
 .card {
-    position: absolute;
-    left: -1000px;
+    position: fixed;
+    left: 200px;
     background-color:   yellow;
     border-radius: 25px;
     border-color: black;
