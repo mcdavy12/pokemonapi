@@ -45,7 +45,7 @@ body {
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(12deg);
-    left: 100px;
+    left: 350px;
     text-shadow: 1px 1px blue;
 }
 
@@ -56,7 +56,7 @@ body {
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(10deg);
-    left: 400px;
+    left: 375px;
     text-shadow: 1px 1px blueviolet;
 }
 
@@ -67,7 +67,7 @@ body {
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(-8deg);
-    left: 400px;
+    left: 800px;
     text-shadow: 1px 1px yellow;
 }
 
@@ -78,7 +78,7 @@ body {
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(-20deg);
-    left: 100px;
+    left: 775px;
     text-shadow: 1px 1px green;
     
 }
