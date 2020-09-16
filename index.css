@@ -8,6 +8,7 @@ body {
 
 #ash {
     width: 75%;
+    left: 200px;
     height: 200px;
     position: relative;
     border-radius: 30px;
