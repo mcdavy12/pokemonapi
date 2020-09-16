@@ -47,7 +47,7 @@ body {
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(12deg);
-    left: 800px;
+    left: 500px;
     text-shadow: 1px 1px blue;
 }
 
@@ -80,7 +80,7 @@ body {
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(-20deg);
-    left: 800px;
+    left: 400px;
     text-shadow: 1px 1px green;
     
 }
