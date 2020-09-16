@@ -39,8 +39,7 @@ body {
 }
 
 .attackOne {
-    position: absolute;
-    margin-top: 25%;
+    position: relative;
     color: rgb(223, 92, 92);
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
