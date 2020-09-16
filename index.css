@@ -44,7 +44,7 @@ body {
 
 .attackOne {
     position: absolute;
-    top: 50%;
+    top: 80%;
     color: rgb(223, 92, 92);
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -55,7 +55,7 @@ body {
 
 .attackTwo {
     position: absolute;
-    top: 50%;
+    top: 90%;
     color: rgb(194, 162, 162);
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -66,7 +66,7 @@ body {
 
 .attackThree {
     position: absolute;
-    top: 65%;
+    top: 80%;
     color: white;
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -77,7 +77,7 @@ body {
 
 .attackFour {
     position: absolute;
-    top: 70%;
+    top: 99%;
     color: white;
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
