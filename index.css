@@ -16,7 +16,7 @@ body {
 }
 
 .card {
-    position: absoulte;
+    position: absolute;
     left 200px;
     background-color:   yellow;
     border-radius: 25px;
