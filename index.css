@@ -8,13 +8,6 @@ body {
     margin-bottom: 1em;
 }
 
-#ash {
-    width: 75%;
-    height: 150px;
-    position: relative;
-    border-radius: 30px;
-}
-
 .card {
     display: block;
     margin-right: auto;
