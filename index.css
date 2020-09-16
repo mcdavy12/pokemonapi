@@ -13,7 +13,7 @@ body {
 
 #ash {
     width: 75%;
-    height: 100px;
+    height: 200px;
     position: relative;
     left: 200px;
     border-radius: 30px;
@@ -21,7 +21,6 @@ body {
 
 .card {
     position: absolute;
-    display: flex;
     background-color:   yellow;
     border-radius: 25px;
     border-color: black;
