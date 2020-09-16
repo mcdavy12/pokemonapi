@@ -16,7 +16,7 @@ body {
 
 .card {
     position: relative;
-    left: 350px;
+    left: 50px;
     background-color:   yellow;
     border-radius: 25px;
     border-color: black;
@@ -44,7 +44,7 @@ body {
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(12deg);
-    left: 400px;
+    left: 100px;
     text-shadow: 1px 1px blue;
 }
 
@@ -55,7 +55,7 @@ body {
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(10deg);
-    left: 250px;
+    left: 100px;
     text-shadow: 1px 1px blueviolet;
 }
 
@@ -77,14 +77,14 @@ body {
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transform: rotate(-20deg);
-    left: 800px;
+    left: 50px;
     text-shadow: 1px 1px green;
     
 }
 
 .backImage {
     position: absolute;
-    top: 110%;
+    top: 300%;
     left: 700px;
     height: auto;
     max-width: 25%;
