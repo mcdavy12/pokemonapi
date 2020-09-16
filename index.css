@@ -19,7 +19,7 @@ body {
 
 .card {
     position: relative;
-    left: 600px;
+    left: 50%;
     background-color:   yellow;
     border-radius: 25px;
     border-color: black;
