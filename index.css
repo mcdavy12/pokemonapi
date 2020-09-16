@@ -1,8 +1,7 @@
-.wrapper {
-    position: relative;
-}
+
 body {
     background-color: black;
+    position: relative;
 }
 
 #header {
