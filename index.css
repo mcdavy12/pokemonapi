@@ -19,7 +19,6 @@ body {
 
 .card {
     position: relative;
-    left: 50%;
     background-color:   yellow;
     border-radius: 25px;
     border-color: black;
@@ -37,7 +36,6 @@ body {
 
 .card-body {
     position: relative;
-    left: 50px;
 }
 
 .attackOne {
@@ -52,7 +50,7 @@ body {
 }
 
 .attackTwo {
-    position: fixed;
+    position: absolute;
     top: 50%;
     color: rgb(194, 162, 162);
     font-size: 38px;
@@ -63,7 +61,7 @@ body {
 }
 
 .attackThree {
-    position: fixed;
+    position: absolute;
     top: 65%;
     color: white;
     font-size: 38px;
